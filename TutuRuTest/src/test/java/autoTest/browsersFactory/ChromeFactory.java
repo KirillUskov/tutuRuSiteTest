@@ -21,6 +21,4 @@ public class ChromeFactory implements BrowserFactory {
         return WebDriverInitialization.getInstance(driver);
     }
 
-
-
 }
